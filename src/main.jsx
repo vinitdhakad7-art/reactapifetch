@@ -12,5 +12,5 @@ createRoot(document.getElementById('root')).render(
      <Hero/>
     <App />
     <Footer/>
-  </StrictMode>,
+  </StrictMode>
 )
